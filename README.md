@@ -6,7 +6,7 @@
 </p>
 
 <br />
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazell-D&theme=tokyonight)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazell-D&theme=tokyonight)]
 <br />
 
 ## 🧰 Languages and Tools:
