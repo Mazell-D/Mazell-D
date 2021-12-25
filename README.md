@@ -6,7 +6,7 @@
 </p>
 
 <br />
-[![Mazell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazell-D&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mazell-d&repo=github-readme-stats)](https://github.com/mazell-d/github-readme-stats)
 
 <br />
 
